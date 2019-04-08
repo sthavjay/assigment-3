@@ -1,3 +1,7 @@
+// Bijaya Shrestha
+// section 2
+
+
 #include "person2.cpp"
 #include <iostream>
 #include <string>
