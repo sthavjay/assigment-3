@@ -48,8 +48,11 @@ if(inputfile.is_open())
 
         employees.push_back(a);
       }
-  }
-  inputfile.close();
+        inputfile.close();
+    }
+   else{
+     cout << "sorry, cannot open the file."<< endl;
+   }
 }
 
 
