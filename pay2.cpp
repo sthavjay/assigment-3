@@ -112,5 +112,5 @@ for(int i= 0; i< companyName.size(); i++)
 
 // Highest paid : Ryan Ward
 // Employee ID : 150
-// Employer :
+// Employer : Douglas
 // Total Pay : $3281.00
