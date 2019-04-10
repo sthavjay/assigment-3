@@ -38,7 +38,7 @@ string cName;
 float hours;
 float rate;
 Person a;
-fstream inputfile;
+ifstream inputfile;
 inputfile.open("input2.txt");
 if(inputfile.is_open())
   {
