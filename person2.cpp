@@ -25,7 +25,7 @@ int    getEmployeeId(){return employeeID;}
 void   setCompanyName(string coName); { companyName = coName;}
 string getCompanyName() { return companyName;}
 
-void   setPayRate(float rate) { payRat= rate;}
+void   setPayRate(float rate) { payRate= rate;}
 float  getPayRate(){ return payRate;}
 
 void   setHoursWorked(float hours) { hoursWorked = hours;}
