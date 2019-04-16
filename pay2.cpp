@@ -47,6 +47,7 @@ if(inputfile.is_open())
         a.setFirstName(fName);
         a.setLastName(lName);
         a.setEmployeeId (id);
+        a.setCompanyName(cName);
         a.setHoursWorked (hours);
         a.setPayRate (rate);
 
@@ -116,8 +117,3 @@ for(int i= 0; i< companyName.size(); i++)
        output.close();
   }
 }
-
-// Highest paid : Ryan Ward
-// Employee ID : 150
-// Employer : Douglas
-// Total Pay : $3281.00
